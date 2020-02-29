@@ -1,4 +1,4 @@
-package com.github.eriksen.echo;
+package com.github.eriksen.hello_netty.echo;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

@@ -1,4 +1,4 @@
-package com.github.eriksen.embedded;
+package com.github.eriksen.hello_netty.embedded;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
